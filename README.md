@@ -42,4 +42,4 @@
 Результатов получилось не так много из-за того, что многие не указали дату рождения или указали только день и месяц
 
 ## Ссылка на  Datalens
-https://datalens.yandex/p3c2x18td9fid
+https://datalens.yandex.cloud/p3c2x18td9fid-rabota-s-datalens
